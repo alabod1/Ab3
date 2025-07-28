@@ -14,7 +14,7 @@ if (empty($username) || empty($password)) {
 
 // Hardcoded accounts with expiration
 $accounts = [
-    "RetiredGamer" => ["password" => "Gamer123", "expires" => "2025-12-31 23:59:59"],
+    "ab" => ["password" => "1", "expires" => "2025-12-31 23:59:59"],
     "FreeUser"     => ["password" => "FreeKey",   "expires" => "2024-12-31 00:00:00"],
     "BetaTest"     => ["password" => "TryMe",     "expires" => "2025-07-15 12:00:00"]
 ];
